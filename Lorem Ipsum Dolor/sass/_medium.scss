@@ -1,0 +1,34 @@
+
+
+
+
+
+/* ------------- Header ------------- */
+header {
+    height: 130px; // it's beacause we use image with height 130px for medium screen
+    background-image: url(../images/header1024.jpg);
+
+    h1 { padding-top: 50px; }
+
+} // end header
+
+
+/* ------------- Main ------------- */
+main {
+    max-width: 100em; 
+    margin: 0 auto;
+
+    figure.photoA {
+        width: 50%-$gutterdbl;
+        float: right;
+        margin-right: $gutter;
+
+       
+    } // end figure
+    
+    figure.photoC {
+        width: 75%;
+        float: left;
+    }
+
+} // end main
