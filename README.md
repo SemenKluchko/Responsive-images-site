@@ -10,6 +10,6 @@ picture tag, and srcset attribute;
 Image by Paul Cheney.
 
 
-kluchkos 26/05/2020
+kluchkos 30/05/2020
 
 
